@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1960
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32609#The-Children-of-the-Poor
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
 identifiers:
