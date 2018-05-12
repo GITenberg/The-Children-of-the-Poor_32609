@@ -1,0 +1,30 @@
+_repo: The-Children-of-the-Poor_32609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riis, Jacob A. (Jacob August)
+    alias: Riis, Jacob August
+    birthdate: 1849
+    deathdate: 1914
+    gutenberg_agent_id: '1960'
+    url: http://www.gutenberg.org/2009/agents/1960
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
+description: ''
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child welfare -- New York (State) -- New York'
+- !lcc 'HV'
+- !lcsh 'Poor -- New York (State) -- New York'
+- !lcsh 'Poor'
+title: The Children of the Poor
+url: http://www.gutenberg.org/ebooks/32609
